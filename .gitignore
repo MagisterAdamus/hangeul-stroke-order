@@ -1,2 +1,5 @@
 # Ignore release .zip files
 hangeul-stroke-order-v*.zip
+
+# Ignore the gallery webpage used to generate the sample image
+gallery.html
