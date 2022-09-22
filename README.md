@@ -1,6 +1,6 @@
 # Hangeul Stroke Order Diagrams
-![The stroke order of the Hangeul consonant
-letters](samples/hangeul_consonants_with_stroke_order.svg)
+<img src="samples/hangeul_consonants_with_stroke_order.svg" style="width:
+100%" alt="The stroke order of the Hangeul consonant letters" />
 
 These are high-quality vector images in SVG format illustrating the stroke
 order of 35 of the 40 letters of the Korean alphabet known as Hangeul
