@@ -2,7 +2,7 @@
 hangeul-stroke-order-v*.zip
 
 # Ignore the gallery files used to generate the sample image
-gallery.*
+samples/gallery.*
 
 # Ignore the files created by the LaTeX "svg" package
-svg-inkscape
+samples/svg-inkscape
