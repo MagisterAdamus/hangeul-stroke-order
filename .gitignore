@@ -1,5 +1,8 @@
 # Ignore release .zip files
 hangeul-stroke-order-v*.zip
 
-# Ignore the gallery webpage used to generate the sample image
-gallery.html
+# Ignore the gallery files used to generate the sample image
+gallery.*
+
+# Ignore the files created by the LaTeX "svg" package
+svg-inkscape
