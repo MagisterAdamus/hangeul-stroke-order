@@ -15,7 +15,7 @@ be styled individually using CSS.
 If you want to use these images in [Anki](https://apps.ankiweb.net/) as
 part of your Hangeul study strategy, I recommend that you paste the SVG
 code directly into Anki’s HTML editing mode (accessed using
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X</kdb>). This will permit
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd>). This will permit
 styling these graphics to display differently depending on whether Night
 Mode is enabled. For example, I am using the following CSS in my own
 Hangeul deck:
